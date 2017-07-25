@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-sqlite",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "description": "Native interface to SQLite for PhoneGap/Cordova - premium enterprise version with legacy support for memory improvements and other enhancements",
   "cordova": {
     "id": "cordova-plugin-sqlite",
